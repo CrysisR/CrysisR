@@ -1,4 +1,4 @@
-<h1 align="left">Hai :3 👋 What's up?</h1>
+<h1 align="left">Hai :3 🐾 What's up?</h1>
 
 ###
 
