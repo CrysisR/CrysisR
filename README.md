@@ -1,8 +1,9 @@
-<h1 align="left">Hai :3 🐾 What's up?</h1>
+<h1 align="left">Solving bugs, one error at a time 🐛</h1>
 
 ###
 
-<p align="left">My name is Tyron Jeremiah Naidoo and I'm a Bachelors degree graduate from the IIE Varsity college, for the Bachelor of Computer and 
+<p align="left">Howdy! My name is Tyron Jeremiah Naidoo
+I'm a Bachelors degree graduate from the IIE Varsity college, for the Bachelor of Computer and 
 Information Sciences in Application Development </p>
 
 ###
@@ -11,7 +12,7 @@ Information Sciences in Application Development </p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#, DotNet, Kotlin<br>🎯 Goals: To establish myself as a developer of the future<br>🎲 Fun fact about me: I love cats 🐱</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#, DotNet, Kotlin, Oracle SQL<br>🎯 Goals: To establish myself as a software developer of the future<br>🎲 Fun fact about me: I love cats 🐱</p>
 
 ###
 
