@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Howdy! My name is Tyron Jeremiah Naidoo <br>I'm a Bachelors degree graduate from the [IIE Varsity college](https://www.varsitycollege.co.za/) from the <br>Bachelor of Computer and Information Sciences in Application Development </p>
+<p align="left">Howdy! My name is Tyron Jeremiah Naidoo <br>I'm a Bachelors degree graduate from the <a href="https://www.varsitycollege.co.za/">IIE Varisty College</a> from the <br>Bachelor of Computer and Information Sciences in Application Development degree </p>
 
 ###
 
